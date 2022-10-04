@@ -76,18 +76,9 @@ Gomgomkim@github
 
 
 ## GitHub Stats
-
-
-|                                                                     GomgomKim's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![GomgomKim's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Gomgomkim&theme=react-dark&hide_border=true&area=true) |
-
+![GomgomKim's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Gomgomkim&theme=react-dark&hide_border=true&area=true)
 ![GomgomKim's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gomgomkim&theme=algolia)
-    
- 
-|                                                                               Top     Languages                                                                          |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gomgomkim&langs_count=8&theme=algolia&layout=compact) |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gomgomkim&langs_count=8&theme=algolia&layout=compact)
 
 
 
