@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi, I'm Kiyeun Kim!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=Gomgomkim&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
+ <!--<img src="https://komarev.com/ghpvc/?username=Gomgomkim&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="GomgomKimmaurya" />-->
  <img src="https://gpvc.arturio.dev/Gomgomkim" alt="Profile views" align='right'/> <a href="https://github.com/Gomgomkim/Gomgomkim/"> </a> 
 <br/>
 
@@ -78,14 +78,14 @@ Gomgomkim@github
 ## GitHub Stats
 
 
-|                                                                     Vishal's Stats                                                                     |
+|                                                                     GomgomKim's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Gomgomkim&theme=react-dark&hide_border=true&area=true) |
+| ![GomgomKim's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Gomgomkim&theme=react-dark&hide_border=true&area=true) |
 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gomgomkim&theme=algolia)                    | 
+![GomgomKim's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gomgomkim&theme=algolia)
     
  
-|                                                                       Top     Languages                                                                          |
+|                                                                               Top     Languages                                                                          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gomgomkim&langs_count=8&theme=algolia&layout=compact) |
 
@@ -98,9 +98,9 @@ Gomgomkim@github
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="mailto:dhflwlsjfzz@naver.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
+<!-- You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/GomgomKimmaurya/">LinkedIn</a> to deploy your machine learning project on web. -->
 
   </td>
   <td width="50%" valign="top">
@@ -118,7 +118,7 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
 
 ------
 Credits: [Gomgomkim](https://github.com/Gomgomkim)
-Last Edited On: 18/04/2022
+Last Edited On: 04/10/2022
 
 
 
